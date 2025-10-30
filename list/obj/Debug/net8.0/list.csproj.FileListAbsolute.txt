@@ -12,3 +12,4 @@ C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\refint\list.dll
 C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.pdb
 C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.genruntimeconfig.cache
 C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\ref\list.dll
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.sourcelink.json

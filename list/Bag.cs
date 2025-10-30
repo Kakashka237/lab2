@@ -12,7 +12,7 @@ namespace list
         public List<Items> items = new List<Items>();
         public void Info()
         {
-            Console.WriteLine("\nПерсонаж откыл сумку");
+            Console.WriteLine("\nВы откыли инвентарь");
         }
         public void PrintItems()
         {

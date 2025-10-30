@@ -229,7 +229,14 @@ namespace list
             else
             {
                 Person person = new Person(name, age, height);
-                person.id = list.Count + 1;
+                foreach(Person p in list)
+                {
+                    if(p.id == person.id)
+                    {
+                        person.id = p.id + 1;
+                    }
+                }
+                
                 list.Add(person);
                 Console.WriteLine("Элемент успешно добавлен");
             }
