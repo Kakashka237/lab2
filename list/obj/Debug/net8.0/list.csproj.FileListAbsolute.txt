@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\list\list\bin\Debug\net8.0\list.exe
+C:\Users\Student\source\repos\list\list\bin\Debug\net8.0\list.deps.json
+C:\Users\Student\source\repos\list\list\bin\Debug\net8.0\list.runtimeconfig.json
+C:\Users\Student\source\repos\list\list\bin\Debug\net8.0\list.dll
+C:\Users\Student\source\repos\list\list\bin\Debug\net8.0\list.pdb
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.dll
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\refint\list.dll
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.pdb
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\list.genruntimeconfig.cache
+C:\Users\Student\source\repos\list\list\obj\Debug\net8.0\ref\list.dll
