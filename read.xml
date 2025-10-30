@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Igor</Name>
+    <Age>23</Age>
+    <Height>178</Height>
+    <id>1</id>
+  </Person>
+  <Person>
+    <Name>Egor</Name>
+    <Age>45</Age>
+    <Height>167</Height>
+    <id>2</id>
+  </Person>
+  <Person>
+    <Name>Daria</Name>
+    <Age>21</Age>
+    <Height>156</Height>
+    <id>3</id>
+  </Person>
+  <Person>
+    <Name>Maria</Name>
+    <Age>14</Age>
+    <Height>164</Height>
+    <id>4</id>
+  </Person>
+  <Person>
+    <Name>Ivan</Name>
+    <Age>18</Age>
+    <Height>180</Height>
+    <id>5</id>
+  </Person>
+</ArrayOfPerson>
